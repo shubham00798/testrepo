@@ -35,7 +35,7 @@ define( 'DB_USER', 'admin' );
 define( 'DB_PASSWORD', 'pass1234' );
 
 /** Database hostname */
-define( 'DB_HOST', 'database-1.ck7xv7ynp4og.ap-south-1.rds.amazonaws.com' );
+define( 'DB_HOST', 'database-endpoint' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
